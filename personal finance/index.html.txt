@@ -1,0 +1,30 @@
+<link rel="stylesheet" href="styles.css">
+index.html<!DOCTYPE html>
+ml lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Finance - Home</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<script src="script.js"></script>
+<body>
+    <header>
+        <h1>Welcome to Personal Finance Hub</h1>
+        <nav>
+
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="savings.html">Savings & Budgeting</a></li>
+                <li><a href="investment.html">Investment Guide</a></li>
+                <li><a href="sidehustles.html">Side Hustles & Business</a></li>
+                <li><a href="goal-tracker.html">Goal Tracker</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <img src="images/finance-home.jpg" alt="Finance Home">
+        <p>Your journey to financial freedom starts here! Learn how to budget, save, invest, and build wealth.</p>
+    </section>
+</body>
+</html>

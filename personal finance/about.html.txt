@@ -1,0 +1,31 @@
+<link rel="stylesheet" href="styles.css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<script src="script.js"></script>
+
+<body>
+    <header>
+        <h1>About Us</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="savings.html">Savings & Budgeting</a></li>
+                <li><a href="investment.html">Investment Guide</a></li>
+                <li><a href="sidehustles.html">Side Hustles & Business</a></li>
+                <li><a href="goal-tracker.html">Goal Tracker</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <img src="images/about-us.jpg" alt="About Us">
+        <p>We are dedicated to helping you make informed financial decisions and achieve financial success.</p>
+    </section>
+</body>
+</html>

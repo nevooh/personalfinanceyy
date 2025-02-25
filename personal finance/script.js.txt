@@ -1,0 +1,14 @@
+// Simple welcome message
+window.onload = function() {
+    alert("Welcome to Personal Finance Hub!");
+};
+
+// Smooth scrolling effect
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+        e.preventDefault();
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+        });
+    });
+});
